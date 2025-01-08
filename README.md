@@ -1,0 +1,9 @@
+Having a personal website to display my projects is a no-brainer in today’s hyper-competitive environment. It’s more than a digital portfolio; it’s my handshake with the world—a scalable, 24/7 introduction that says, “Here’s what I’ve done, here’s what I can do, and here’s where I’m going.” In a sea of resumes, having a website shows initiative and signals that I’m playing the long game. It’s my way of saying I’m not just showing up but stepping up.
+
+A well-crafted website allows me to showcase my work in a way that a PDF simply can’t. It’s dynamic, living proof of my skills—whether it’s a groundbreaking research project, a clever algorithm, or an elegant design. This is my chance to curate the narrative. Every link, every page, every pixel says, “This is me at my best.” And in a world where people make snap judgments, my website ensures those judgments work in my favor.
+
+But the benefits go beyond branding. Building my website forces me to improve. It’s practice—an iterative process where I learn web design, organization, and communication. It’s a lab where I can test my ideas and a canvas on which to present them. It shows that I’m not just learning but applying, refining, and growing.
+
+And then there’s the access. My website is a billboard on the internet’s busiest highway. Networking event? I share my link. Job application? I drop my URL. Google my name? Bam, there it is—proof of my work and my ambition. It’s my passport to opportunities I didn’t even know existed, opening doors for collaboration, employment, and recognition.
+
+The bottom line? My website isn’t just a tool—it’s a signal. It says I’m serious, skilled, and willing to put in the work. It’s a magnet for opportunity and a mirror of my growth. In a world where perception matters, my website is the one place where I get to control the narrative. Why wouldn’t I?
