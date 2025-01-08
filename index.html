@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Portfolio</title>
+    <style>
+        body {
+            background-color: black;
+            color: #33ff33;
+            font-family: "Courier New", Courier, monospace;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+        }
+        h1, h2 {
+            text-align: center;
+            text-transform: uppercase;
+            margin-bottom: 20px;
+        }
+        section {
+            margin: 20px auto;
+            max-width: 800px;
+            padding: 20px;
+            border: 1px solid #33ff33;
+        }
+        .comment-section input, .comment-section textarea {
+            width: 100%;
+            background-color: black;
+            color: #33ff33;
+            border: 1px solid #33ff33;
+            font-family: "Courier New", Courier, monospace;
+            margin-bottom: 10px;
+            padding: 10px;
+        }
+        .comment-section button {
+            display: block;
+            width: 100%;
+            background-color: #33ff33;
+            color: black;
+            border: none;
+            padding: 10px;
+            cursor: pointer;
+            font-weight: bold;
+        }
+        .comment-section button:hover {
+            background-color: #28cc28;
+        }
+        footer {
+            text-align: center;
+            margin: 20px 0;
+        }
+        a {
+            color: #33ff33;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Your Portfolio</h1>
+    </header>
+
+    <section id="about">
+        <h2>About Me</h2>
+        <p>Hello! I'm a Computer Science and Electrical Engineering student at UNCW with a passion for technology and finance. I specialize in data analysis, coding, and creating innovative projects.</p>
+    </section>
+
+    <section id="skills">
+        <h2>Skills</h2>
+        <ul>
+            <li>Programming: Python, Java, HTML, CSS</li>
+            <li>Data Analysis & Visualization</li>
+            <li>Machine Learning Basics</li>
+            <li>Quantitative Modeling</li>
+        </ul>
+    </section>
+
+    <section id="projects">
+        <h2>Projects</h2>
+        <ul>
+            <li><strong>Membership Website for UNCW Yacht Club:</strong> Developed a platform for member registration and updates.</li>
+            <li><strong>Quantitative Options Trading Model:</strong> Designed a model to analyze and predict options trading outcomes.</li>
+        </ul>
+    </section>
+
+    <section id="contact">
+        <h2>Contact</h2>
+        <p>Email: <a href="mailto:scottmarvin1212@gmail.com">scottmarvin1212@gmail.com</a></p>
+        <p>LinkedIn: <a href="www.linkedin.com/in/scott-marvin-1a822925b" target="_blank">linkedin.com/in/yourlinkedinprofile</a></p>
+        <p>GitHub: <a href="https://github.com/MarketRed5" target="_blank">github.com/yourgithubusername</a></p>
+        <p>Resume: <a href="https://uncw4-my.sharepoint.com/:w:/g/personal/sm4951_uncw_edu/ETAw3oEbxFNCm-Q5avf3KhMBuvZFFfESnp2XcIUir-71ZA?e=lG8GEj" target="_blank">Download My Resume</a></p>
+    </section>
+
+    <section id="projects">
+        <h2>Projects</h2>
+        <ul>
+            <li><strong>Redwood Final Report:</strong> <a href="files/redwood_final.xlsx" target="_blank">Download</a></li>
+            <li><strong>Case Study 2 Data:</strong> <a href="files/case_study_2_data.xlsx" target="_blank">Download</a></li>
+            <li><strong>Case Study 1 QBA 265:</strong> <a href="files/case_study_1_qba_265.xlsx" target="_blank">Download</a></li>
+            <li><strong>Invoice Example:</strong> <a href="files/invoice.xlsx" target="_blank">Download</a></li>
+        </ul>
+    </section>
+    
+    <section id="comments" class="comment-section">
+        <h2>Comments & Questions</h2>
+        <form action="#" method="post">
+            <input type="text" name="name" placeholder="Your Name" required>
+            <input type="email" name="email" placeholder="Your Email" required>
+            <textarea name="message" rows="5" placeholder="Your Comment or Question" required></textarea>
+            <button type="submit">Submit</button>
+        </form>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 Scott Marvin. All rights reserved.</p>
+    </footer>
+</body>
+</html>
